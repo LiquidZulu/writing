@@ -1,0 +1,17 @@
+#+title: Selfish Liberty
+
+* notes
+#+begin_quote
+To an evader, a feeling of some kind is more important than truth. A man finds a certain fact or policy to be unpleasant, frightening, or guilt-provoking. Reality to the contrary notwithstanding, he does not want the fact to be real or the policy to be necessary; so he decides to blank out the offending datum. Or a certain idea or policy gives a man pleasure, reassurance, or relief, and he wants to believe in or practice it, even though he knows that reality is against him in the issue; so he decides to blank out what he knows. Both such men, in Ayn Rand's words, place an "I wish" above an "It is." An example would be an individual who knows that his consumption of drugs is killing him, who wants to indulge but not to die, and who solves the problem by indulging blindly, simply evading the consequences.
+#+end_quote
+ + from OPAR, 62
+
+#+begin_quote
+In the realm of physical action, man's choice is twofold. First he must choose, through a process of thought (or non-thought), the ideas and values that will comprise his mind's content. Then he must choose to act on these ideas and values—to keep them operative as his guide amid all the vicissitudes of daily life. He must choose what to think, and then he must choose to practice what he preaches.
+#+end_quote
+ + from OPAR, 67-68, the "virtuous" criminal is making an incorrect tertiary choice. He knows that crime is bad but doesn't act on his knowledge
+
+#+begin_quote
+"Who is the public? What does it hold as its good? There was a time when men believed that the good' was a concept to be defined by a code of moral values and that no man had the right to seek his good through the violation of the rights of another. If it is now believed that my fellow men may sacrifice me in any manner they please for the sake of whatever they deem to be their own good, if they believe that they may seize my property simply because they need it—well, so does any burglar. There is only this difference: the burglar does not ask me to sanction his act."
+#+end_quote
++ from AS
