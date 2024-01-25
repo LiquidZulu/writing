@@ -1,14 +1,11 @@
 #+title: The Anti-Environment Manifesto
 
++ extinction rebellion
++ just stop oil
 * notes
 ** anti-industrial revolution
 + turn the abstractions into concrete form
 + the sanction of the victim with respect to companies opting for environmentalism
-+ "A restricted technology is a contradiction in terms"
-  + "The root of production is man’s mind; the mind is an attribute of the individual and it does not work under orders, controls and compulsion, as centuries of stagnation have demonstrated. Progress cannot be planned by government, and it cannot be restricted or retarded; it can only be stopped, as every statist government has demonstrated. If we are to consider nature, what about the fact that collectivism is incompatible with man’s nature and that the first requirement of man’s mind is freedom? But observe that just as the ancient mystics of spirit regarded the mind as a faculty of divine origin and, therefore, as unnatural, so today’s mystics of muscle, observing that the mind is not possessed by animals, regard it as unnatural."
-    + the environmentalists cry that we should leave nature alone, that capitalism is evil because it yields rewards for people who exploit nature, and that instead we should grant rewards to those who "leave well enough alone---"rewards" are here treated as if they were the arbitrary whim of the policymaker, rather than a law of nature; that if we just decide to reward leaving nature alone that we then can. But who is to pay for this? Who is to produce and provide the rewards for non-production and non-provision?
-  + "The demand to “restrict” technology is the demand to /restrict/ man’s mind. It is nature — i.e., reality — that makes both these goals impossible to achieve. Technology can be destroyed, and the mind can be paralyzed, but neither can be restricted. Whether and wherever such restrictions are attempted, it is the mind — not the state — that withers away."
-    + the plans to restrict technology are an instance of regulating the unknown; one would have to have omniscience to know all of the possible effects that some new technology might produce, of all of the possible future innovations that could come from it. If a man relies upon permission to innovate, then he cannot innovate. The type of man that seeks permission is the second-hander, not the thinker---it is the thinker who must travel out on new paths and dedicate years of struggle to discover some new application of the facts of reality. If it is not the facts of reality but the sayso of a committe which is his guiding principle, then he cannot apply those facts of reality.
 + "There are three major reasons why you, and most people, do not protest. ... It is these three premises that you now have to check."
   1. taking technology for granted, the premise that technology is a fact of nature which will always be there
   2. Americans are naive about the nature of evil, the premise that nobody advocates man's destruction for the sake of man's destruction, or that when they say they do that they don't mean it.
@@ -24,8 +21,6 @@
     + the alternative premise is environmental-Marxism: on Marx all that is required to run a factory is to have access to the means of production, and mens abilities are determined by which means of production they have access to. On the environmentalist side, man can live as an animal; he has no specific nature, his nature is malleable and dependent on how exactly he is living his life.
 + life expectancy is going up in tandem with industrialisation
 + the environmentalist is not for improving man's quality of life; they attack luxuries constantly
-+ "What worries ecologists is that people now upset about the environment may ultimately look to technology to solve everything..."
-  + it is quite the mystery to the reasonable man why the environmentalist movement is so direly opposed to nuclear power---it is because they are against technology as such
 + In the wake of the ECP it is clear that socialism cannot allow for production, only predation. Thus they move to attack production as evil.
   + "Instead of their old promises that collectivism would create universal abundance and their denunciations of capitalism for creating poverty, they are now denouncing capitalism /for creating abundance/."
 + Rothbard pollution article: the environmentalists want the EPA rather than an adherence to property rights. This is one-half of the package deal: that pollution really is a bad thing, but they then bundle this with a "solution" of damaging man to a far greater degree.
@@ -33,9 +28,7 @@
 + address the "honest environmentalist"---the environmentalist who wants to protect the environment because he thinks it is best for man
 ** Greta Thunberg 2019 speech
 + https://www.youtube.com/watch?v=KAJsdgTPJpU; https://www.npr.org/2019/09/23/763452863/transcript-greta-thunbergs-speech-at-the-u-n-climate-action-summit
-+ "You have stolen my dreams and my childhood with your empty words, and yet I'm one of the lucky ones. People are suffering, people are dying, entire ecosystems are collapsing, we are in the beginning of a mass-extinction and all you can talk about is money and fairytales of eternal economic growth. How dare you!?"
 + "For more than 30 years, the science has been crystal clear. How dare you continue to look away and come here saying that you're doing enough, when the politics and solutions needed are still nowhere in sight."
-+ "How dare you pretend that this can be solved with just 'business as usual' and some technical solutions?"
 ** David Attenborough COP26 speech
 + https://www.youtube.com/watch?v=o7EpiXViSIQ
 + He tells us that we should look at "a single number: the concentration of carbon in our atmosphere, the measure that greatly determines global temperature. And the changes in that one number, is the clearest way to chart our own story, for it defines our relationship with our world. For much of humanities ancient history, that number bounced wildly between 180 and 300, and so too did global temperatures. It was a brutal, and unpredictable world. At times our ancestors existed only in tiny numbers."
@@ -54,34 +47,56 @@ The environmental protectionist seeks to destroy mans success and happiness here
 
 It is this capital structure, this collection of factors that are combined to produce further factors, eventually terminating in consumers goods, that is the mark of civilisation. Economic growth means a growth in this capital structure---it is turning away from dirty, brutal nature, towards the clean and infinite power of man. The environmentalist inversion of this is a desire that man live not by using his mind to alter his environment to be habitable for him, but rather that he live as some lower animal, fending for survival and adapting to whatever circumstances he happens to be placed in. But just as a dog cannot live as a plant would by expecting his food to come to him, so too can a man not live like a dog does, by adapting himself to his environment rather than the other way around.
 
-They tell us that greed is destroying the Earth, and that greed is therefore the root of all evil. But what is the root of greed? If greed is this desire to take from nature for the betterment of man, then the root of greed is the sustenance of mankind.
+They tell us that greed is destroying the Earth, and that greed is therefore the root of all evil. But what is the root of greed? If greed is this desire to take from nature for the betterment of man, then the root of greed is the sustenance of mankind. The environmentalists cry that we should leave nature alone, that capitalism is evil because it yields rewards for people who exploit[fn:1] nature, and that instead we should grant rewards to those who "leave well enough alone"---"rewards" are here treated as if they were the arbitrary whim of the policymaker, rather than a law of nature; that if we just decide to reward leaving nature alone that we then can. But who is to pay for this? Who is to produce and provide the rewards for non-production and non-provision?
 
 We are told that there is an environmental disaster facing us---what exactly is this disasterous towards? Man, or non-man? It cannot be man, the human environment has never been better---our lives are immesurably superior to those primitives who lived every day by hunting for their food, and shivering in cold caves at night. Rather than this, the disaster is faced not by man---but by non-man. It is non-man that the environmentalist tells us that we must sacrifice for the sake of.
 
-They hate man's achievements and oppose him on the grounds that he does achieve. To concretise this, consider the following passage from the ill-named /Life/ magazine, published following massive blackouts in the Eastern United States: "It shouldn’t happen every evening, but a crisis like the lights going out has its good points. In the first place, it deflates human smugness about our *miraculous* technology, which, at least in the area of power distribution and control, now stands revealed as utterly flawed [...] and it is somehow delicious to contemplate the fact that all our beautiful brains and all those wonderful plans and all that marvelous equipment has combined to produce a system that is unreliable."[fn:4]
+They hate man's achievements and oppose him on the grounds that he does achieve. To concretise this, consider the following passage from the ill-named /Life/ magazine, published following massive blackouts in the Eastern United States: "It shouldn’t happen every evening, but a crisis like the lights going out has its good points. In the first place, it deflates human smugness about our *miraculous* technology, which, at least in the area of power distribution and control, now stands revealed as utterly flawed [...] and it is somehow delicious to contemplate the fact that all our beautiful brains and all those wonderful plans and all that marvelous equipment has combined to produce a system that is unreliable."[fn:2]
 
-We should not continue to conquer nature with our "miraculous" technology, they tell us, but rather we must restrict our growth, restrict our births, restrict our very minds. "Miraculous" is an important word here---on the environmentalist thesis production is an evil that should be abolished. They cry out that we must engage in "sustainable" development and "sustainable" innovation. ... to a paralysed mind, every innovation might as well be a miracle; some act of god or chance circumstance that cannot be explained, analysed, or utilised.
+We should not continue to conquer nature with our "miraculous" technology, they tell us, but rather we must restrict our growth, restrict our births, restrict our very minds. "Miraculous" is an important word here---on the environmentalist thesis, production is an evil that should be abolished. They cry out that we must engage in "sustainable" development and "sustainable" innovation.
+
+But, as explained by Ayn Rand: "a restricted technology is a contradiction in terms;"
+#+begin_quote
+The root of production is man’s mind; the mind is an attribute of the individual and it does not work under orders, controls and compulsion, as centuries of stagnation have demonstrated. Progress cannot be planned by government, and it cannot be restricted or retarded; it can only be stopped, as every statist government has demonstrated. If we are to consider nature, what about the fact that collectivism is incompatible with man’s nature and that the first requirement of man’s mind is freedom? But observe that just as the ancient mystics of spirit regarded the mind as a faculty of divine origin and, therefore, as unnatural, so today’s mystics of muscle, observing that the mind is not possessed by animals, regard it as unnatural.
+
+[...]
+
+The demand to “restrict” technology is the demand to /restrict/ man’s mind. It is nature — i.e., reality — that makes both these goals impossible to achieve. Technology can be destroyed, and the mind can be paralyzed, but neither can be restricted. Whether and wherever such restrictions are attempted, it is the mind — not the state — that withers away.[fn:3]
+#+end_quote
+
+To a paralysed mind, every innovation might as well be a miracle; some act of god or chance circumstance that cannot be explained, analysed, or utilised. We again find Marxist folly on this front: just as they believe that a central planner can somehow take into account all of the unknown and /unknowable/[fn:4] information which impinges upon the economy, so too do they believe that a central planner can somehow know all of the possible effects which every new technology might have and all of the further innovations which might be borne from it. In both cases they are "groping in the dark." Nothing less than total omniscience can allow a central planning bureau to determine which technologies are "sustainable" and which are not.
+
+If a man relies upon permission to innovate, then he cannot innovate. The type of man that seeks permission is the second-hander, not the thinker---it is the thinker who must travel out on new paths and dedicate years of struggle to discover some new application of the facts of reality. If it is not the facts of reality but the sayso of a committee which is his guiding principle, then he cannot apply those facts of reality.
 
 What the environmentalist is claiming when he wishes that man stop burning his fossil fuels to stop the glaciers melting, is that those glaciers have a superior moral claim to the ice they contain than does man to his own life and wellbeing. But on what standard do they base this? The standard is certainly not the standard of a man's own life---but what is their alternative?
 
-// add some environmentalist explaining the virtue of sacrifice
-
-We have here a deadly package-deal:[fn:1] the environmentalist, like all altruists, preaches that sacrifice is the proper moral duty of man. They package together the fundamental questions in ethics of: (1) what are values? and (2) who should be the beneficiary of values. The altruist substitutes the second for the first---he tells us that anything is good if it is done in self-sacrifice; in the case of the environmentalist, done in sacrifice to inanimate matter. He faces here an infinite recursion: "what are values? Values are when values are provided to others."
-
-This is the core of the environmentalist premise, it is the latest form of the bromide that man must sacrifice his own achievements---because he achieved them. It used to be that in the words of FDR, we must sacrifice for the underpriviled "one-third of a nation." Then this sacrifice was stretched to include the "underpriviled" of the entire globe. Now we are told we must sacrifice for the sake of seaweeds, bugs, and rainforests.[fn:2] The goal is always kept in mind---that man must sacrifice. It's just that now the collectivist has had to change his tactics, the attacks on the "luxuries" of modern times no longer point only at the rich allowing for the poor to be his favoured group---these luxuries extend even to the most destitute modern man. Now he must attack luxuries and claim mud and soil as his favoured group---still, he attacks the luxuries.
-
+Greta Thunberg is kind enough to tell us:
 #+begin_quote
-Watch the pincer movement. If you’re sick of one version, we push you into the other. We get you coming and going. We’ve closed the doors. We’ve fixed the coin. Heads--collectivism, and tails--collectivism. Fight the doctrine which slaughters the individual with a doctrine which slaughters the individual. Give up your soul to a council--or give it up to a leader. But give it up, give it up, give it up.[fn:3]
+You have stolen my dreams and my childhood with your empty words, and yet I'm one of the lucky ones. People are suffering, people are dying, entire ecosystems are collapsing, we are in the beginning of a mass-extinction and *all you can talk about is money and fairytales of eternal economic growth*. How dare you!?[fn:5]
 #+end_quote
 
-The love and pining for the environment that we often see these days has not come from nowhere---it is a symptom of just how fully man has conquered nature in modern society. Just as you might enjoy watching a horror movie from the comfort of your living room, you might enjoy going on a nature hike---because in either case you know that you are not in any real danger. Oliver Weerasinghe, UN ambassador of Sri Lanka (Ceylon), explained once that this is not a sentiment shared by all men: "The two-thirds of mankind who live in developing countries do not share the same concern for the environment as the other one-third in more affluent regions. The primary problem for these developing areas is the struggle for the bare necessities of life. It would, therefore, not be realistic to expect governments of these areas to carry out recommendations regarding environmental protection which might impede or restrict economic progress."[fn:5]
+So, the standard then is that we should abandon "money" and "economic growth," instead sacrificing these pre-requisites of human flourishing, in favour of the "entire ecosystems" which are "collapsing." People suffering and dying are merely smokescreens to cover up the motivation of protecting the non-human ecosystems---after all, production is a pre-requisite for human survival, and money is the result of men dealing with each other through trade as against predation. In other words:
+
+#+begin_quote
+Money is a tool of exchange, which can’t exist unless there are goods produced and men able to produce them. Money is the material shape of the principle that men who wish to deal with one another must deal by trade and give value for value. Money is not the tool of the moochers, who claim your product by tears, or of the looters, who take it from you by force. Money is made possible only by the men who produce. Is this what you consider evil?[fn:6]
+#+end_quote
+
+We have here a deadly package-deal:[fn:7] the environmentalist, like all altruists, preaches that sacrifice is the proper moral duty of man. They package together the fundamental questions in ethics of: (1) what are values? and (2) who should be the beneficiary of values. The altruist substitutes the second for the first---he tells us that anything is good if it is done in self-sacrifice; in the case of the environmentalist, done in sacrifice to inanimate matter. He faces here an infinite recursion: "what are values? Values are when values are provided to others."
+
+This is the core of the environmentalist premise, it is the latest form of the bromide that man must sacrifice his own achievements---because he achieved them. It used to be that in the words of FDR, we must sacrifice for the underpriviled "one-third of a nation." Then this sacrifice was stretched to include the "underpriviled" of the entire globe. Now we are told we must sacrifice for the sake of seaweeds, bugs, and rainforests.[fn:8] The goal is always kept in mind---that man must sacrifice. It's just that now the collectivist has had to change his tactics, the attacks on the "luxuries" of modern times no longer point only at the rich allowing for the poor to be his favoured group---these luxuries extend even to the most destitute modern man. Now he must attack luxuries and claim mud and soil as his favoured group---still, he attacks the luxuries.
+
+#+begin_quote
+Watch the pincer movement. If you’re sick of one version, we push you into the other. We get you coming and going. We’ve closed the doors. We’ve fixed the coin. Heads--collectivism, and tails--collectivism. Fight the doctrine which slaughters the individual with a doctrine which slaughters the individual. Give up your soul to a council--or give it up to a leader. But give it up, give it up, give it up.[fn:9]
+#+end_quote
+
+The love and pining for the environment that we often see these days has not come from nowhere---it is a symptom of just how fully man has conquered nature in modern society. Just as you might enjoy watching a horror movie from the comfort of your living room, you might enjoy going on a nature hike---because in either case you know that you are not in any real danger. Oliver Weerasinghe, UN ambassador of Sri Lanka (Ceylon), explained once that this is not a sentiment shared by all men: "The two-thirds of mankind who live in developing countries do not share the same concern for the environment as the other one-third in more affluent regions. The primary problem for these developing areas is the struggle for the bare necessities of life. It would, therefore, not be realistic to expect governments of these areas to carry out recommendations regarding environmental protection which might impede or restrict economic progress."[fn:10]
 
 Furthermore, the so-called "natural environments" in which one is liable to hike through or camp within are often not as natural as we might think. In my country, the great forests of England were shaped by the hands of medieval loggers and the moors of the Scottish highlands were created by the most industrious of the Bronze-Age farmers. It is places such as the Darien Gap, Antarctica, and the Sahara desert that are the true representatives of nature. These locations are essentially uninhabitable by man. Even the tribesmen who live in the Amazon rainforest make clearings and burn away undergrowth---the Eskimos of northern Canada build igloos for warmth---and the men of the desert irrigate the soil with groundwater. Nowhere do you find man prosperous in some hippy "harmony with nature."
 
 The environmental conservationists adopt an odious double-standard: on the one hand they scream out that we need change, that we need /to/ change, that we should not stick to the political or industrial status-quo; and then on the other hand, they are staunch proponents of a status-quo with respect to the natural world. The motive is laid bare---man must sink back into the dirt, back into the animal kingdom, back into the grave; where no production may take place. The moral ideal of a human being on this view is a corpse, because at this point he is at least able to nourish the maggots.
 
 #+begin_quote
-In their cosmology, man is infinitely malleable, controllable and dispensable, nature is sacrosanct. It is only man — and his work, his achievement, his mind — that can be violated with impunity, while nature is not to be defiled by a single bridge or skyscraper. It is only human beings that they do not hesitate to murder, it is only human schools that they bomb, only human habitations that they burn, only human property that they loot — while they crawl on their bellies in homage to the reptiles of the marshlands, whom they protect from the encroachments of human airfields, and humbly seek the guidance of the stars on how to live on this incomprehensible planet.[fn:6]
+In their cosmology, man is infinitely malleable, controllable and dispensable, nature is sacrosanct. It is only man — and his work, his achievement, his mind — that can be violated with impunity, while nature is not to be defiled by a single bridge or skyscraper. It is only human beings that they do not hesitate to murder, it is only human schools that they bomb, only human habitations that they burn, only human property that they loot — while they crawl on their bellies in homage to the reptiles of the marshlands, whom they protect from the encroachments of human airfields, and humbly seek the guidance of the stars on how to live on this incomprehensible planet.[fn:11]
 #+end_quote
 
 The conservationists want to conserve anything--except man--and control nothing--except man.
@@ -89,16 +104,51 @@ The conservationists want to conserve anything--except man--and control nothing-
 ** Humanist Environmentalism
 Many conservationists will cry out at this point that they do not wish to destroy man to aid the environment; they just want mankind to live in harmony with the environment. What, then, does it mean for mankind to live in harmony with the environment? A man fracking oil to fuel his automobile? "No!---That is destructive of the natural environment!" A man farming cows to produce milk for him to drink? "No!---That would disrupt the proper functioning of the soil!" A man mining copper to build his computers? "No!---The explosives would scare off migratory birds!" A man plucking an apple from a tree to feed his starving body? "No!---The tree needs those fruits to be eaten by grazing animals which then spread the seeds and thus continue the circle of life!"
 
+There is a more honest sort of environmentalist, who really does believe that what he is advocating is environmentalism as a means to better humanity. The easiest test to weed this sort out from the anti-human hordes is to ask them their opinion on nuclear energy---a long-lived demon of the environmental hippies.
+
+It is somewhat baffling to these more honest men why it is that their compatriots so vehemently reject a process of energy production that is so obviously superior to their wind and sun worship. They cannot grasp why it is that Greta asks us: "how dare you pretend that this can be solved with just 'business as usual' and some technical solutions?"[fn:12] They cannot understand that according to /Newsweek/, "what worries ecologists is that people now upset about the environment may ultimately look to technology to solve everything."[fn:13]
+
+Surely these people must just be misspeaking, right? It can't be that they are against technology as such when these are clearly technical problems! After all, being against technology would mean advocating an apocalypse---nobody is that openly evil!
+
+Ayn Rand identifies[fn:14] in the sentiments of this sort of environmentalist-apologia three false premises:
+#+begin_quote
+There are three major reasons why you, and most people, do not protest. (1) You take technology — and its magnificent contributions to your life — for granted, almost as if it were a fact of nature, which will always be there. But it is not and will not. (2) As an American, you are likely to be very benevolent and enormously innocent about the nature of evil. You are unable to believe that some people can advocate man’s destruction for the sake of man’s destruction — and when you hear them, you think that they don’t mean it. But they do. (3) Your education — by that same kind of people — has hampered your ability to translate an abstract idea into its actual, practical meaning and, therefore, has made you indifferent to and contemptuous of ideas. /This/ is the real American tragedy.
+
+It is these three premises that you now have to check.
+#+end_quote
+
+
+
++ the honest core packaged together with altruism
+
+** Scientism and Environmentalism
+
 * Footnotes
 
-[fn:1]On this, see: Ayn Rand, introduction to /The Virtue of Selfishness/.
+[fn:1]Notice the Marxian language.
 
-[fn:2]Paraphrased from Ayn Rand, "The Anti-Industrial Revolution," available at: https://courses.aynrand.org/works/the-anti-industrial-revolution/
+[fn:2]Ayn Rand, "The Anti-Industrial Revolution," available at: https://courses.aynrand.org/works/the-anti-industrial-revolution/; quoting /Life/, November 19, 1965
 
-[fn:3]Ayn Rand, /The Fountainhead/
+[fn:3]Ayn Rand, "The Anti-Industrial Revolution," available at: https://courses.aynrand.org/works/the-anti-industrial-revolution/
 
-[fn:4]Ayn Rand, "The Anti-Industrial Revolution," available at: https://courses.aynrand.org/works/the-anti-industrial-revolution/; quoting /Life/, November 19, 1965
+[fn:4]See: Ludwig von Mises, /Economic Calculation in the Socialist Commonwealth/; "In this essay, [...] Mises examines Marxism’s most fundamental claims. In doing so, Mises exposes socialism as a utopian scheme that is illogical, uneconomic, and unworkable at its core. It is 'impossible' and must fail because it is devoid of economic rationale; it provides no means for any objective basis of economic calculation and thus no way to assign resources to their most productive uses." quoted in Yuri N. Maltsev, Foreword to ibid.
 
-[fn:5]Ayn Rand, "The Anti-Industrial Revolution," available at: https://courses.aynrand.org/works/the-anti-industrial-revolution/; quoting /Industry Week/, June 29, 1970
+[fn:5]Greta Thunberg's speech at the 2019 UN Climate Action Summit, available at: https://www.youtube.com/watch?v=KAJsdgTPJpU; transcript available at: https://www.npr.org/2019/09/23/763452863/transcript-greta-thunbergs-speech-at-the-u-n-climate-action-summit
 
-[fn:6]Ayn Rand, "The Anti-Industrial Revolution," available at: https://courses.aynrand.org/works/the-anti-industrial-revolution/
+[fn:6]Francisco d'Anconia's money speech, from /Atlas Shrugged/, available at: https://www.capitalismmagazine.com/2002/08/franciscos-money-speech/
+
+[fn:7]On this, see: Ayn Rand, introduction to /The Virtue of Selfishness/.
+
+[fn:8]Paraphrased from Ayn Rand, "The Anti-Industrial Revolution," available at: https://courses.aynrand.org/works/the-anti-industrial-revolution/
+
+[fn:9]Ayn Rand, /The Fountainhead/
+
+[fn:10]Ayn Rand, "The Anti-Industrial Revolution," available at: https://courses.aynrand.org/works/the-anti-industrial-revolution/; quoting /Industry Week/, June 29, 1970
+
+[fn:11]Ayn Rand, "The Anti-Industrial Revolution," available at: https://courses.aynrand.org/works/the-anti-industrial-revolution/
+
+[fn:12]Greta Thunberg's speech at the 2019 UN Climate Action Summit, available at: https://www.youtube.com/watch?v=KAJsdgTPJpU; transcript available at: https://www.npr.org/2019/09/23/763452863/transcript-greta-thunbergs-speech-at-the-u-n-climate-action-summit
+
+[fn:13]Ayn Rand, "The Anti-Industrial Revolution," available at: https://courses.aynrand.org/works/the-anti-industrial-revolution/; quoting /Newsweek/, January 26, 1970
+
+[fn:14]See: Ayn Rand, "The Anti-Industrial Revolution," available at: https://courses.aynrand.org/works/the-anti-industrial-revolution/
