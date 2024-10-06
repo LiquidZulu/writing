@@ -1,0 +1,1380 @@
+{
+  "$$data_type": "org-document",
+  "properties": {
+    "title": ["Poverty as a Choice"],
+    "filetags": [],
+    "author": ["LiquidZulu"],
+    "creator": "Emacs 28.2 (Org mode 9.5.5)",
+    "date": [],
+    "description": [],
+    "email": "liquidzulu@pm.me",
+    "language": "en"
+  },
+  "contents": [
+    {
+      "$$data_type": "org-node",
+      "type": "section",
+      "ref": "org3d33550",
+      "properties": {
+        "post-blank": 1,
+        "post-affiliated": 1
+      },
+      "contents": [
+        {
+          "$$data_type": "org-node",
+          "type": "keyword",
+          "ref": "org847d09f",
+          "properties": {
+            "key": "TITLE",
+            "value": "Poverty as a Choice",
+            "post-blank": 0,
+            "post-affiliated": 1
+          },
+          "contents": []
+        }
+      ]
+    },
+    {
+      "$$data_type": "org-node",
+      "type": "headline",
+      "ref": "orge90211c",
+      "drawer": {},
+      "properties": {
+        "tags-all": [],
+        "raw-value": "outline",
+        "pre-blank": 0,
+        "level": 1,
+        "priority": null,
+        "tags": [],
+        "todo-keyword": null,
+        "todo-type": null,
+        "post-blank": 0,
+        "footnote-section-p": false,
+        "archivedp": false,
+        "commentedp": false,
+        "post-affiliated": 31,
+        "title": ["outline"]
+      },
+      "contents": [
+        {
+          "$$data_type": "org-node",
+          "type": "section",
+          "ref": "orgeccb5ed",
+          "properties": {
+            "post-blank": 0,
+            "post-affiliated": 41
+          },
+          "contents": [
+            {
+              "$$data_type": "org-node",
+              "type": "plain-list",
+              "ref": "orgf7d0892",
+              "properties": {
+                "type": "unordered",
+                "structure": [
+                  [41, 0, "+ ", null, null, null, 288],
+                  [165, 2, "+ ", null, null, null, 253],
+                  [253, 2, "+ ", null, null, null, 288],
+                  [288, 0, "+ ", null, null, null, 349],
+                  [299, 2, "+ ", null, null, null, 318],
+                  [318, 2, "+ ", null, null, null, 349],
+                  [349, 0, "+ ", null, null, null, 411],
+                  [411, 0, "+ ", null, null, null, 487],
+                  [487, 0, "+ ", null, null, null, 907],
+                  [547, 2, "+ ", null, null, null, 620],
+                  [620, 2, "+ ", null, null, null, 709],
+                  [709, 2, "+ ", null, null, null, 795],
+                  [795, 2, "+ ", null, null, null, 907],
+                  [907, 0, "+ ", null, null, null, 941]
+                ],
+                "post-blank": 0,
+                "post-affiliated": 41
+              },
+              "contents": [
+                {
+                  "$$data_type": "org-node",
+                  "type": "item",
+                  "ref": "orgd1fbda4",
+                  "properties": {
+                    "bullet": "+ ",
+                    "checkbox": null,
+                    "counter": null,
+                    "pre-blank": 0,
+                    "post-blank": 0,
+                    "post-affiliated": 41,
+                    "tag": []
+                  },
+                  "contents": [
+                    {
+                      "$$data_type": "org-node",
+                      "type": "paragraph",
+                      "ref": "org896639d",
+                      "properties": {
+                        "post-blank": 0,
+                        "post-affiliated": 43
+                      },
+                      "contents": [
+                        "thesis: the type of persistent poverty we seen in slums and in africa is deliberately chosen by the people who live there\n"
+                      ]
+                    },
+                    {
+                      "$$data_type": "org-node",
+                      "type": "plain-list",
+                      "ref": "org195dc2b",
+                      "properties": {
+                        "type": "unordered",
+                        "structure": [
+                          [41, 0, "+ ", null, null, null, 288],
+                          [165, 2, "+ ", null, null, null, 253],
+                          [253, 2, "+ ", null, null, null, 288],
+                          [288, 0, "+ ", null, null, null, 349],
+                          [299, 2, "+ ", null, null, null, 318],
+                          [318, 2, "+ ", null, null, null, 349],
+                          [349, 0, "+ ", null, null, null, 411],
+                          [411, 0, "+ ", null, null, null, 487],
+                          [487, 0, "+ ", null, null, null, 907],
+                          [547, 2, "+ ", null, null, null, 620],
+                          [620, 2, "+ ", null, null, null, 709],
+                          [709, 2, "+ ", null, null, null, 795],
+                          [795, 2, "+ ", null, null, null, 907],
+                          [907, 0, "+ ", null, null, null, 941]
+                        ],
+                        "post-blank": 0,
+                        "post-affiliated": 165
+                      },
+                      "contents": [
+                        {
+                          "$$data_type": "org-node",
+                          "type": "item",
+                          "ref": "orge9f0106",
+                          "properties": {
+                            "bullet": "+ ",
+                            "checkbox": null,
+                            "counter": null,
+                            "pre-blank": 0,
+                            "post-blank": 0,
+                            "post-affiliated": 165,
+                            "tag": []
+                          },
+                          "contents": [
+                            {
+                              "$$data_type": "org-node",
+                              "type": "paragraph",
+                              "ref": "org3aaae56",
+                              "properties": {
+                                "post-blank": 0,
+                                "post-affiliated": 169
+                              },
+                              "contents": [
+                                "explain what poverty is, it is the state of nature, the concrete is given by africa\n"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "$$data_type": "org-node",
+                          "type": "item",
+                          "ref": "orgc6d5cd7",
+                          "properties": {
+                            "bullet": "+ ",
+                            "checkbox": null,
+                            "counter": null,
+                            "pre-blank": 0,
+                            "post-blank": 0,
+                            "post-affiliated": 253,
+                            "tag": []
+                          },
+                          "contents": [
+                            {
+                              "$$data_type": "org-node",
+                              "type": "paragraph",
+                              "ref": "org8cddb12",
+                              "properties": {
+                                "post-blank": 0,
+                                "post-affiliated": 257
+                              },
+                              "contents": ["hating the good for being good\n"]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "$$data_type": "org-node",
+                  "type": "item",
+                  "ref": "org9d295ab",
+                  "properties": {
+                    "bullet": "+ ",
+                    "checkbox": null,
+                    "counter": null,
+                    "pre-blank": 0,
+                    "post-blank": 0,
+                    "post-affiliated": 288,
+                    "tag": []
+                  },
+                  "contents": [
+                    {
+                      "$$data_type": "org-node",
+                      "type": "paragraph",
+                      "ref": "org37fc6e1",
+                      "properties": {
+                        "post-blank": 0,
+                        "post-affiliated": 290
+                      },
+                      "contents": ["examples\n"]
+                    },
+                    {
+                      "$$data_type": "org-node",
+                      "type": "plain-list",
+                      "ref": "org123f486",
+                      "properties": {
+                        "type": "unordered",
+                        "structure": [
+                          [41, 0, "+ ", null, null, null, 288],
+                          [165, 2, "+ ", null, null, null, 253],
+                          [253, 2, "+ ", null, null, null, 288],
+                          [288, 0, "+ ", null, null, null, 349],
+                          [299, 2, "+ ", null, null, null, 318],
+                          [318, 2, "+ ", null, null, null, 349],
+                          [349, 0, "+ ", null, null, null, 411],
+                          [411, 0, "+ ", null, null, null, 487],
+                          [487, 0, "+ ", null, null, null, 907],
+                          [547, 2, "+ ", null, null, null, 620],
+                          [620, 2, "+ ", null, null, null, 709],
+                          [709, 2, "+ ", null, null, null, 795],
+                          [795, 2, "+ ", null, null, null, 907],
+                          [907, 0, "+ ", null, null, null, 941]
+                        ],
+                        "post-blank": 0,
+                        "post-affiliated": 299
+                      },
+                      "contents": [
+                        {
+                          "$$data_type": "org-node",
+                          "type": "item",
+                          "ref": "org5be5bc1",
+                          "properties": {
+                            "bullet": "+ ",
+                            "checkbox": null,
+                            "counter": null,
+                            "pre-blank": 0,
+                            "post-blank": 0,
+                            "post-affiliated": 299,
+                            "tag": []
+                          },
+                          "contents": [
+                            {
+                              "$$data_type": "org-node",
+                              "type": "paragraph",
+                              "ref": "orgf8ecba6",
+                              "properties": {
+                                "post-blank": 0,
+                                "post-affiliated": 303
+                              },
+                              "contents": ["drying tomatos\n"]
+                            }
+                          ]
+                        },
+                        {
+                          "$$data_type": "org-node",
+                          "type": "item",
+                          "ref": "org17c1f3b",
+                          "properties": {
+                            "bullet": "+ ",
+                            "checkbox": null,
+                            "counter": null,
+                            "pre-blank": 0,
+                            "post-blank": 0,
+                            "post-affiliated": 318,
+                            "tag": []
+                          },
+                          "contents": [
+                            {
+                              "$$data_type": "org-node",
+                              "type": "paragraph",
+                              "ref": "orge70c6d5",
+                              "properties": {
+                                "post-blank": 0,
+                                "post-affiliated": 322
+                              },
+                              "contents": ["sude's stories from africa\n"]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "$$data_type": "org-node",
+                  "type": "item",
+                  "ref": "org266c000",
+                  "properties": {
+                    "bullet": "+ ",
+                    "checkbox": null,
+                    "counter": null,
+                    "pre-blank": 0,
+                    "post-blank": 0,
+                    "post-affiliated": 349,
+                    "tag": []
+                  },
+                  "contents": [
+                    {
+                      "$$data_type": "org-node",
+                      "type": "paragraph",
+                      "ref": "org8a53b5c",
+                      "properties": {
+                        "post-blank": 0,
+                        "post-affiliated": 351
+                      },
+                      "contents": [
+                        "draw out the abstraction of hating wealth from the examples\n"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "$$data_type": "org-node",
+                  "type": "item",
+                  "ref": "org0a349f7",
+                  "properties": {
+                    "bullet": "+ ",
+                    "checkbox": null,
+                    "counter": null,
+                    "pre-blank": 0,
+                    "post-blank": 0,
+                    "post-affiliated": 411,
+                    "tag": []
+                  },
+                  "contents": [
+                    {
+                      "$$data_type": "org-node",
+                      "type": "paragraph",
+                      "ref": "org3ab664f",
+                      "properties": {
+                        "post-blank": 0,
+                        "post-affiliated": 413
+                      },
+                      "contents": [
+                        "Atlas Shrugged, Starnesville, they hate greatness, so they choose poverty\n"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "$$data_type": "org-node",
+                  "type": "item",
+                  "ref": "org00bd87f",
+                  "properties": {
+                    "bullet": "+ ",
+                    "checkbox": null,
+                    "counter": null,
+                    "pre-blank": 0,
+                    "post-blank": 0,
+                    "post-affiliated": 487,
+                    "tag": []
+                  },
+                  "contents": [
+                    {
+                      "$$data_type": "org-node",
+                      "type": "paragraph",
+                      "ref": "org76ae185",
+                      "properties": {
+                        "post-blank": 0,
+                        "post-affiliated": 489
+                      },
+                      "contents": [
+                        "\"but what about the people who were forced into poverty?\"\n"
+                      ]
+                    },
+                    {
+                      "$$data_type": "org-node",
+                      "type": "plain-list",
+                      "ref": "org62a553c",
+                      "properties": {
+                        "type": "unordered",
+                        "structure": [
+                          [41, 0, "+ ", null, null, null, 288],
+                          [165, 2, "+ ", null, null, null, 253],
+                          [253, 2, "+ ", null, null, null, 288],
+                          [288, 0, "+ ", null, null, null, 349],
+                          [299, 2, "+ ", null, null, null, 318],
+                          [318, 2, "+ ", null, null, null, 349],
+                          [349, 0, "+ ", null, null, null, 411],
+                          [411, 0, "+ ", null, null, null, 487],
+                          [487, 0, "+ ", null, null, null, 907],
+                          [547, 2, "+ ", null, null, null, 620],
+                          [620, 2, "+ ", null, null, null, 709],
+                          [709, 2, "+ ", null, null, null, 795],
+                          [795, 2, "+ ", null, null, null, 907],
+                          [907, 0, "+ ", null, null, null, 941]
+                        ],
+                        "post-blank": 0,
+                        "post-affiliated": 547
+                      },
+                      "contents": [
+                        {
+                          "$$data_type": "org-node",
+                          "type": "item",
+                          "ref": "org1ab6d23",
+                          "properties": {
+                            "bullet": "+ ",
+                            "checkbox": null,
+                            "counter": null,
+                            "pre-blank": 0,
+                            "post-blank": 0,
+                            "post-affiliated": 547,
+                            "tag": []
+                          },
+                          "contents": [
+                            {
+                              "$$data_type": "org-node",
+                              "type": "paragraph",
+                              "ref": "org2d235aa",
+                              "properties": {
+                                "post-blank": 0,
+                                "post-affiliated": 551
+                              },
+                              "contents": [
+                                "by greedy corporations---what is the root of money? d'Anconia speech\n"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "$$data_type": "org-node",
+                          "type": "item",
+                          "ref": "orge7d18eb",
+                          "properties": {
+                            "bullet": "+ ",
+                            "checkbox": null,
+                            "counter": null,
+                            "pre-blank": 0,
+                            "post-blank": 0,
+                            "post-affiliated": 620,
+                            "tag": []
+                          },
+                          "contents": [
+                            {
+                              "$$data_type": "org-node",
+                              "type": "paragraph",
+                              "ref": "orgf5af5ac",
+                              "properties": {
+                                "post-blank": 0,
+                                "post-affiliated": 624
+                              },
+                              "contents": [
+                                "by exploitation of colonialists---examples of colonised people succeeding, Hong Kong\n"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "$$data_type": "org-node",
+                          "type": "item",
+                          "ref": "org32a5cbd",
+                          "properties": {
+                            "bullet": "+ ",
+                            "checkbox": null,
+                            "counter": null,
+                            "pre-blank": 0,
+                            "post-blank": 0,
+                            "post-affiliated": 709,
+                            "tag": []
+                          },
+                          "contents": [
+                            {
+                              "$$data_type": "org-node",
+                              "type": "paragraph",
+                              "ref": "org73423f1",
+                              "properties": {
+                                "post-blank": 0,
+                                "post-affiliated": 713
+                              },
+                              "contents": [
+                                "by being racially inferior---examples of people of all different races succeeding\n"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "$$data_type": "org-node",
+                          "type": "item",
+                          "ref": "org80cba20",
+                          "properties": {
+                            "bullet": "+ ",
+                            "checkbox": null,
+                            "counter": null,
+                            "pre-blank": 0,
+                            "post-blank": 0,
+                            "post-affiliated": 795,
+                            "tag": []
+                          },
+                          "contents": [
+                            {
+                              "$$data_type": "org-node",
+                              "type": "paragraph",
+                              "ref": "orgf46e245",
+                              "properties": {
+                                "post-blank": 0,
+                                "post-affiliated": 799
+                              },
+                              "contents": [
+                                "by the state---this one is valid, the state does indeed put people into poverty on the premises of altruism\n"
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "$$data_type": "org-node",
+                  "type": "item",
+                  "ref": "org656ecb8",
+                  "properties": {
+                    "bullet": "+ ",
+                    "checkbox": null,
+                    "counter": null,
+                    "pre-blank": 0,
+                    "post-blank": 0,
+                    "post-affiliated": 907,
+                    "tag": []
+                  },
+                  "contents": [
+                    {
+                      "$$data_type": "org-node",
+                      "type": "paragraph",
+                      "ref": "org60c8565",
+                      "properties": {
+                        "post-blank": 0,
+                        "post-affiliated": 909
+                      },
+                      "contents": ["call to action: reject altruism\n"]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "$$data_type": "org-node",
+      "type": "headline",
+      "ref": "org7f82697",
+      "drawer": {},
+      "properties": {
+        "tags-all": [],
+        "raw-value": "main body",
+        "pre-blank": 0,
+        "level": 1,
+        "priority": null,
+        "tags": [],
+        "todo-keyword": null,
+        "todo-type": null,
+        "post-blank": 1,
+        "footnote-section-p": false,
+        "archivedp": false,
+        "commentedp": false,
+        "post-affiliated": 941,
+        "title": ["main body"]
+      },
+      "contents": [
+        {
+          "$$data_type": "org-node",
+          "type": "section",
+          "ref": "orgfaa7afc",
+          "properties": {
+            "post-blank": 1,
+            "post-affiliated": 953
+          },
+          "contents": [
+            {
+              "$$data_type": "org-node",
+              "type": "paragraph",
+              "ref": "org2f64c55",
+              "properties": {
+                "post-blank": 1,
+                "post-affiliated": 953
+              },
+              "contents": [
+                "I will present you with a thesis: the sort of abject and systematic poverty we see in the slums of the west and the developing nations in areas such as Africa was deliberately chosen by the people who reside there. Poverty is the state of nature, man comes into this world naked and only some were able to pull themselves out of the conditions of bare sustenance---again, by a deliberate choice. The choice in question is between two alternatives: to love the good for being good, or to hate the good for being good.\n"
+              ]
+            },
+            {
+              "$$data_type": "org-node",
+              "type": "paragraph",
+              "ref": "org6df78a1",
+              "properties": {
+                "post-blank": 1,
+                "post-affiliated": 1471
+              },
+              "contents": [
+                "A Twitter user explains that when he was in Africa, he \"learned that 60% of the tomato harvest went to spoil each year.\"",
+                {
+                  "$$data_type": "org-node",
+                  "type": "footnote-reference",
+                  "ref": "orgc6f807f",
+                  "properties": {
+                    "label": "1",
+                    "type": "standard",
+                    "post-blank": 1
+                  },
+                  "contents": []
+                },
+                "To solve this problem, he built an air dryer to make sundried tomato pesto, which he gave away. \"Everybody loved it and the matriarchs loved using the dry tomato in meals. I told them they could keep the air [dryer] and possibly sell it for side income next harvest. I left at the end of my term and checked back a year later, the air [dryer] was dismantled for the wood and parts.\"\n"
+              ]
+            },
+            {
+              "$$data_type": "org-node",
+              "type": "paragraph",
+              "ref": "org4be13b1",
+              "properties": {
+                "post-blank": 1,
+                "post-affiliated": 1982
+              },
+              "contents": [
+                "Su worked with a shipping company in Tunisia for a time and shared some of her stories with me. She explained that when a charity would install a well, rival villages would pour rat poison down it---if I don't have it, nobody should have it. One day she went to give out western candies to some children, only to have them snatched up by ravenous adults. One mother explained that she did not care if her children starved to death, she just wants the candy---placing the value of a momentary taste above the lives of children. When Su was staying at one of the higher quality hotels the cleaning lady demanded that she hand over her iPhone, because Su is a westerner, and all westerners are wealthy so she should give up what she values to the poor Africans---from each according to his ability, to each according to his need. This same cleaning lady would later blatantly steal some makeup and was confused why this would bother Su---it is self-evident that Su does not deserve it, because she worked for it.\n"
+              ]
+            },
+            {
+              "$$data_type": "org-node",
+              "type": "plain-list",
+              "ref": "org8f6d6ac",
+              "properties": {
+                "type": "unordered",
+                "structure": [
+                  [2993, 0, "+ ", null, null, null, 3306],
+                  [3007, 2, "+ ", null, null, null, 3306],
+                  [3306, 0, "+ ", null, null, null, 3515],
+                  [3384, 2, "+ ", null, null, null, 3515],
+                  [3515, 0, "+ ", null, null, null, 3530],
+                  [3530, 0, "+ ", null, null, null, 4211],
+                  [3549, 2, "+ ", null, null, null, 3940],
+                  [3637, 4, "+ ", null, null, null, 3819],
+                  [3819, 4, "+ ", null, null, null, 3940],
+                  [3940, 2, "+ ", null, null, null, 4211],
+                  [4033, 4, "+ ", null, null, null, 4211]
+                ],
+                "post-blank": 1,
+                "post-affiliated": 2993
+              },
+              "contents": [
+                {
+                  "$$data_type": "org-node",
+                  "type": "item",
+                  "ref": "orgc74789b",
+                  "properties": {
+                    "bullet": "+ ",
+                    "checkbox": null,
+                    "counter": null,
+                    "pre-blank": 0,
+                    "post-blank": 0,
+                    "post-affiliated": 2993,
+                    "tag": []
+                  },
+                  "contents": [
+                    {
+                      "$$data_type": "org-node",
+                      "type": "paragraph",
+                      "ref": "org151e790",
+                      "properties": {
+                        "post-blank": 0,
+                        "post-affiliated": 2995
+                      },
+                      "contents": ["su stories:\n"]
+                    },
+                    {
+                      "$$data_type": "org-node",
+                      "type": "plain-list",
+                      "ref": "org9770f9e",
+                      "properties": {
+                        "type": "unordered",
+                        "structure": [
+                          [2993, 0, "+ ", null, null, null, 3306],
+                          [3007, 2, "+ ", null, null, null, 3306],
+                          [3306, 0, "+ ", null, null, null, 3515],
+                          [3384, 2, "+ ", null, null, null, 3515],
+                          [3515, 0, "+ ", null, null, null, 3530],
+                          [3530, 0, "+ ", null, null, null, 4211],
+                          [3549, 2, "+ ", null, null, null, 3940],
+                          [3637, 4, "+ ", null, null, null, 3819],
+                          [3819, 4, "+ ", null, null, null, 3940],
+                          [3940, 2, "+ ", null, null, null, 4211],
+                          [4033, 4, "+ ", null, null, null, 4211]
+                        ],
+                        "post-blank": 0,
+                        "post-affiliated": 3007
+                      },
+                      "contents": [
+                        {
+                          "$$data_type": "org-node",
+                          "type": "item",
+                          "ref": "org0ec0f91",
+                          "properties": {
+                            "bullet": "+ ",
+                            "checkbox": null,
+                            "counter": null,
+                            "pre-blank": 0,
+                            "post-blank": 0,
+                            "post-affiliated": 3007,
+                            "tag": []
+                          },
+                          "contents": [
+                            {
+                              "$$data_type": "org-node",
+                              "type": "paragraph",
+                              "ref": "org675b4dd",
+                              "properties": {
+                                "post-blank": 0,
+                                "post-affiliated": 3011
+                              },
+                              "contents": [
+                                "had to stay up all night with her boss watching a shipping container of theirs so that the warehouse workers would not steal anything from it---a chinese businesswoman at that same warehouse was complaining that her goods were stolen, and that the warehouse security was doing nothing about it.\n"
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "$$data_type": "org-node",
+                  "type": "item",
+                  "ref": "org81f9f5b",
+                  "properties": {
+                    "bullet": "+ ",
+                    "checkbox": null,
+                    "counter": null,
+                    "pre-blank": 0,
+                    "post-blank": 0,
+                    "post-affiliated": 3306,
+                    "tag": []
+                  },
+                  "contents": [
+                    {
+                      "$$data_type": "org-node",
+                      "type": "paragraph",
+                      "ref": "org6492d57",
+                      "properties": {
+                        "post-blank": 0,
+                        "post-affiliated": 3308
+                      },
+                      "contents": [
+                        "give concretes, draw out the abstraction of the positive case for my thesis\n"
+                      ]
+                    },
+                    {
+                      "$$data_type": "org-node",
+                      "type": "plain-list",
+                      "ref": "org8975d9c",
+                      "properties": {
+                        "type": "unordered",
+                        "structure": [
+                          [2993, 0, "+ ", null, null, null, 3306],
+                          [3007, 2, "+ ", null, null, null, 3306],
+                          [3306, 0, "+ ", null, null, null, 3515],
+                          [3384, 2, "+ ", null, null, null, 3515],
+                          [3515, 0, "+ ", null, null, null, 3530],
+                          [3530, 0, "+ ", null, null, null, 4211],
+                          [3549, 2, "+ ", null, null, null, 3940],
+                          [3637, 4, "+ ", null, null, null, 3819],
+                          [3819, 4, "+ ", null, null, null, 3940],
+                          [3940, 2, "+ ", null, null, null, 4211],
+                          [4033, 4, "+ ", null, null, null, 4211]
+                        ],
+                        "post-blank": 0,
+                        "post-affiliated": 3384
+                      },
+                      "contents": [
+                        {
+                          "$$data_type": "org-node",
+                          "type": "item",
+                          "ref": "org4ac4103",
+                          "properties": {
+                            "bullet": "+ ",
+                            "checkbox": null,
+                            "counter": null,
+                            "pre-blank": 0,
+                            "post-blank": 0,
+                            "post-affiliated": 3384,
+                            "tag": []
+                          },
+                          "contents": [
+                            {
+                              "$$data_type": "org-node",
+                              "type": "paragraph",
+                              "ref": "orgcf05bbb",
+                              "properties": {
+                                "post-blank": 0,
+                                "post-affiliated": 3388
+                              },
+                              "contents": [
+                                "they wanted poverty, they hate life and wealth, they got their wish---they did not fail to succeed, they succeeded at failure.\n"
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "$$data_type": "org-node",
+                  "type": "item",
+                  "ref": "orgd9ceb62",
+                  "properties": {
+                    "bullet": "+ ",
+                    "checkbox": null,
+                    "counter": null,
+                    "pre-blank": 0,
+                    "post-blank": 0,
+                    "post-affiliated": 3515,
+                    "tag": []
+                  },
+                  "contents": [
+                    {
+                      "$$data_type": "org-node",
+                      "type": "paragraph",
+                      "ref": "org0e519cd",
+                      "properties": {
+                        "post-blank": 0,
+                        "post-affiliated": 3517
+                      },
+                      "contents": ["starnesville\n"]
+                    }
+                  ]
+                },
+                {
+                  "$$data_type": "org-node",
+                  "type": "item",
+                  "ref": "orgebd552a",
+                  "properties": {
+                    "bullet": "+ ",
+                    "checkbox": null,
+                    "counter": null,
+                    "pre-blank": 0,
+                    "post-blank": 0,
+                    "post-affiliated": 3530,
+                    "tag": []
+                  },
+                  "contents": [
+                    {
+                      "$$data_type": "org-node",
+                      "type": "paragraph",
+                      "ref": "orgdabb88e",
+                      "properties": {
+                        "post-blank": 0,
+                        "post-affiliated": 3532
+                      },
+                      "contents": ["counterarguents:\n"]
+                    },
+                    {
+                      "$$data_type": "org-node",
+                      "type": "plain-list",
+                      "ref": "orgcfdec2f",
+                      "properties": {
+                        "type": "unordered",
+                        "structure": [
+                          [2993, 0, "+ ", null, null, null, 3306],
+                          [3007, 2, "+ ", null, null, null, 3306],
+                          [3306, 0, "+ ", null, null, null, 3515],
+                          [3384, 2, "+ ", null, null, null, 3515],
+                          [3515, 0, "+ ", null, null, null, 3530],
+                          [3530, 0, "+ ", null, null, null, 4211],
+                          [3549, 2, "+ ", null, null, null, 3940],
+                          [3637, 4, "+ ", null, null, null, 3819],
+                          [3819, 4, "+ ", null, null, null, 3940],
+                          [3940, 2, "+ ", null, null, null, 4211],
+                          [4033, 4, "+ ", null, null, null, 4211]
+                        ],
+                        "post-blank": 0,
+                        "post-affiliated": 3549
+                      },
+                      "contents": [
+                        {
+                          "$$data_type": "org-node",
+                          "type": "item",
+                          "ref": "orgc5126c4",
+                          "properties": {
+                            "bullet": "+ ",
+                            "checkbox": null,
+                            "counter": null,
+                            "pre-blank": 0,
+                            "post-blank": 0,
+                            "post-affiliated": 3549,
+                            "tag": []
+                          },
+                          "contents": [
+                            {
+                              "$$data_type": "org-node",
+                              "type": "paragraph",
+                              "ref": "orgeb586b7",
+                              "properties": {
+                                "post-blank": 0,
+                                "post-affiliated": 3553
+                              },
+                              "contents": [
+                                "the developing peoples were exploited by the wealthy, and that is why they are poor\n"
+                              ]
+                            },
+                            {
+                              "$$data_type": "org-node",
+                              "type": "plain-list",
+                              "ref": "orged35848",
+                              "properties": {
+                                "type": "unordered",
+                                "structure": [
+                                  [2993, 0, "+ ", null, null, null, 3306],
+                                  [3007, 2, "+ ", null, null, null, 3306],
+                                  [3306, 0, "+ ", null, null, null, 3515],
+                                  [3384, 2, "+ ", null, null, null, 3515],
+                                  [3515, 0, "+ ", null, null, null, 3530],
+                                  [3530, 0, "+ ", null, null, null, 4211],
+                                  [3549, 2, "+ ", null, null, null, 3940],
+                                  [3637, 4, "+ ", null, null, null, 3819],
+                                  [3819, 4, "+ ", null, null, null, 3940],
+                                  [3940, 2, "+ ", null, null, null, 4211],
+                                  [4033, 4, "+ ", null, null, null, 4211]
+                                ],
+                                "post-blank": 0,
+                                "post-affiliated": 3637
+                              },
+                              "contents": [
+                                {
+                                  "$$data_type": "org-node",
+                                  "type": "item",
+                                  "ref": "orgc91f117",
+                                  "properties": {
+                                    "bullet": "+ ",
+                                    "checkbox": null,
+                                    "counter": null,
+                                    "pre-blank": 0,
+                                    "post-blank": 0,
+                                    "post-affiliated": 3637,
+                                    "tag": []
+                                  },
+                                  "contents": [
+                                    {
+                                      "$$data_type": "org-node",
+                                      "type": "paragraph",
+                                      "ref": "org71d72c3",
+                                      "properties": {
+                                        "post-blank": 0,
+                                        "post-affiliated": 3643
+                                      },
+                                      "contents": [
+                                        "this is an inversion of the parasitism, it is those poor who advocate from each according to his ability to each according to his need, and curse the rich for their being rich\n"
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "$$data_type": "org-node",
+                                  "type": "item",
+                                  "ref": "org080e3ca",
+                                  "properties": {
+                                    "bullet": "+ ",
+                                    "checkbox": null,
+                                    "counter": null,
+                                    "pre-blank": 0,
+                                    "post-blank": 0,
+                                    "post-affiliated": 3819,
+                                    "tag": []
+                                  },
+                                  "contents": [
+                                    {
+                                      "$$data_type": "org-node",
+                                      "type": "paragraph",
+                                      "ref": "org77d89c5",
+                                      "properties": {
+                                        "post-blank": 0,
+                                        "post-affiliated": 3825
+                                      },
+                                      "contents": [
+                                        "this ties into the point that they think all of the natural resources were stripped dry by colonialism or whatever\n"
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "$$data_type": "org-node",
+                          "type": "item",
+                          "ref": "org9f63ea4",
+                          "properties": {
+                            "bullet": "+ ",
+                            "checkbox": null,
+                            "counter": null,
+                            "pre-blank": 0,
+                            "post-blank": 0,
+                            "post-affiliated": 3940,
+                            "tag": []
+                          },
+                          "contents": [
+                            {
+                              "$$data_type": "org-node",
+                              "type": "paragraph",
+                              "ref": "org4f00e02",
+                              "properties": {
+                                "post-blank": 0,
+                                "post-affiliated": 3944
+                              },
+                              "contents": [
+                                "the developing peoples are of an inferior race, and are not able to develop on their own\n"
+                              ]
+                            },
+                            {
+                              "$$data_type": "org-node",
+                              "type": "plain-list",
+                              "ref": "org562208c",
+                              "properties": {
+                                "type": "unordered",
+                                "structure": [
+                                  [2993, 0, "+ ", null, null, null, 3306],
+                                  [3007, 2, "+ ", null, null, null, 3306],
+                                  [3306, 0, "+ ", null, null, null, 3515],
+                                  [3384, 2, "+ ", null, null, null, 3515],
+                                  [3515, 0, "+ ", null, null, null, 3530],
+                                  [3530, 0, "+ ", null, null, null, 4211],
+                                  [3549, 2, "+ ", null, null, null, 3940],
+                                  [3637, 4, "+ ", null, null, null, 3819],
+                                  [3819, 4, "+ ", null, null, null, 3940],
+                                  [3940, 2, "+ ", null, null, null, 4211],
+                                  [4033, 4, "+ ", null, null, null, 4211]
+                                ],
+                                "post-blank": 0,
+                                "post-affiliated": 4033
+                              },
+                              "contents": [
+                                {
+                                  "$$data_type": "org-node",
+                                  "type": "item",
+                                  "ref": "orga5ff9d2",
+                                  "properties": {
+                                    "bullet": "+ ",
+                                    "checkbox": null,
+                                    "counter": null,
+                                    "pre-blank": 0,
+                                    "post-blank": 0,
+                                    "post-affiliated": 4033,
+                                    "tag": []
+                                  },
+                                  "contents": [
+                                    {
+                                      "$$data_type": "org-node",
+                                      "type": "paragraph",
+                                      "ref": "org6957150",
+                                      "properties": {
+                                        "post-blank": 0,
+                                        "post-affiliated": 4039
+                                      },
+                                      "contents": [
+                                        "this claim is then used for the same purpose: that the wealthy must sacrifice their own wellbeing to \"civilise\" them---we don't want to be selfish isolationists after all!\n"
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "$$data_type": "org-node",
+              "type": "quote-block",
+              "ref": "org396c88a",
+              "properties": {
+                "post-blank": 1,
+                "post-affiliated": 4212
+              },
+              "contents": [
+                {
+                  "$$data_type": "org-node",
+                  "type": "paragraph",
+                  "ref": "orgb47398b",
+                  "properties": {
+                    "post-blank": 1,
+                    "post-affiliated": 4226
+                  },
+                  "contents": [
+                    "The law of causality is the law of identity applied to action. Al! actions are caused by entities. The nature of an action is caused and determined by the nature of the entities that act; a thing cannot act in contradiction to its nature. An action not caused by an entity would be caused by a zero, which would mean a zero controlling a thing, a nonentity controlling an entity, the non-existent ruling the existent—which is the universe of your teachers' desire, the cause of their doctrines of causeless action, the reason of their revolt against reason, the goal of their morality, their politics, their economics, the ideal they strive for: the reign of the zero.\n"
+                  ]
+                },
+                {
+                  "$$data_type": "org-node",
+                  "type": "paragraph",
+                  "ref": "orgef54791",
+                  "properties": {
+                    "post-blank": 1,
+                    "post-affiliated": 4896
+                  },
+                  "contents": [
+                    "\"The law of identity does not permit you to have your cake and eat it, too. The law of causality does not permit you to eat your cake before you have it. But if you drown both laws in the blanks of your mind, if you pretend to yourself and to others that you don't see—then you can try to proclaim your right to eat your cake today and mine tomorrow, you can preach that the way to have a cake is to eat it first, before you bake it, that the way to produce is to start by consuming, that \"all wishers have an equal claim to all things, since nothing is caused by anything. The corollary of the causeless in matter is the unearned in spirit.\n"
+                  ]
+                },
+                {
+                  "$$data_type": "org-node",
+                  "type": "paragraph",
+                  "ref": "org8d2c861",
+                  "properties": {
+                    "post-blank": 0,
+                    "post-affiliated": 5539
+                  },
+                  "contents": [
+                    "\"Whenever you rebel against causality, your motive is the fraudulent desire, not to escape it, but worse: to reverse it. You want unearned love, as if love, the effect, could give you personal value, the cause—you want unearned admiration, as if admiration, the effect, could give you virtue, the cause—you want unearned wealth, as if wealth, the effect, could give you ability, the cause—you plead for mercy, mercy, not justice, as if an unearned forgiveness could wipe out the cause of your plea. And to indulge your ugly little shams, you support the doctrines of your teachers, while they run hog-wild proclaiming that spending, the effect, creates riches, the cause, that machinery, the effect, creates intelligence, the cause, that your sexual desires, the effect, create your philosophical values, the cause.\n"
+                  ]
+                }
+              ]
+            },
+            {
+              "$$data_type": "org-node",
+              "type": "quote-block",
+              "ref": "org12e647a",
+              "properties": {
+                "post-blank": 1,
+                "post-affiliated": 6368
+              },
+              "contents": [
+                {
+                  "$$data_type": "org-node",
+                  "type": "paragraph",
+                  "ref": "orgb384b79",
+                  "properties": {
+                    "post-blank": 0,
+                    "post-affiliated": 6382
+                  },
+                  "contents": [
+                    "Wealth is a means of human life, and they clamor for wealth in imitation of living beings, to pretend to themselves that they desire to live. But their swinish indulgence in plundered luxury is not enjoyment, it is escape. They do not want to own your fortune, they want you to lose it; they do not want to succeed, they want you to fail; they do not want to live, they want you to die; they desire nothing, they hate existence, and they running, each trying not to learn that the object of his hatred is himself.\n"
+                  ]
+                }
+              ]
+            },
+            {
+              "$$data_type": "org-node",
+              "type": "quote-block",
+              "ref": "orgec787c3",
+              "properties": {
+                "post-blank": 1,
+                "post-affiliated": 6909
+              },
+              "contents": [
+                {
+                  "$$data_type": "org-node",
+                  "type": "paragraph",
+                  "ref": "orgbba008d",
+                  "properties": {
+                    "post-blank": 0,
+                    "post-affiliated": 6923
+                  },
+                  "contents": [
+                    "\"If you want to know what you lost when I quit and when my strikers deserted your world—stand on an empty stretch of soil in a wilderness unexplored by men and ask yourself what manner of survival you would achieve and how long you would last if you refused to think, with no one around to teach you the motions, or, if you chose to think, how much your mind would be able to discover—ask yourself how many independent conclusions you have reached in the course of your life and how much of your time was spent on performing the actions you learned from others— ask yourself whether you would be able to discover how to till the soil and grow your food, whether you would be able to invent a wheel, a lever, an induction coil, a generator, an electronic tube—then decide whether men of ability are exploiters who live by the fruit of your labor and rob you of the wealth that you produce, and whether you dare to believe that you possess the power to enslave them. Let your women take a look at a jungle female with her shriveled face and pendulous breasts, as she sits grinding meal in a bowl, hour after hour, century by century—then let them ask themselves whether their 'instinct of tool-making' will provide them with their electric refrigerators, their washing machines and vacuum cleaners, and, if not, whether they care to destroy those who provided it all, but not 'by instinct.'\n"
+                  ]
+                }
+              ]
+            },
+            {
+              "$$data_type": "org-node",
+              "type": "quote-block",
+              "ref": "org0ea190f",
+              "properties": {
+                "post-blank": 1,
+                "post-affiliated": 8325
+              },
+              "contents": [
+                {
+                  "$$data_type": "org-node",
+                  "type": "paragraph",
+                  "ref": "org9dbc65c",
+                  "properties": {
+                    "post-blank": 0,
+                    "post-affiliated": 8339
+                  },
+                  "contents": [
+                    "\"In order to deprive us of honor, that you may then deprive us of our wealth, you have always regarded us as slaves who deserve no moral recognition. You praise any venture that claims to be nonprofit, and damn the men who made the profits that make the venture possible. You regard as 'in the public interest' any project serving those who do not pay; it is not in the public interest to provide any services for those who do the paying. 'Public benefit' is anything given as alms; to engage in trade is to injure the public. 'Public welfare' is the welfare of those who do not earn it; those who do, are entitled to no welfare. 'The public,' to you, is whoever has failed to achieve any virtue or value; whoever achieves it, whoever provides the goods you require for survival, ceases to be regarded as part of the public or as part of the human race.\n"
+                  ]
+                }
+              ]
+            },
+            {
+              "$$data_type": "org-node",
+              "type": "quote-block",
+              "ref": "orgc7b4932",
+              "properties": {
+                "post-blank": 1,
+                "post-affiliated": 9206
+              },
+              "contents": [
+                {
+                  "$$data_type": "org-node",
+                  "type": "paragraph",
+                  "ref": "org5312320",
+                  "properties": {
+                    "post-blank": 0,
+                    "post-affiliated": 9220
+                  },
+                  "contents": [
+                    "\"There are two sides to every issue: one side is right and the other is wrong, but the middle is always evil. The man who is wrong still retains some respect for truth, if only by accepting the responsibility of choice.\n"
+                  ]
+                }
+              ]
+            },
+            {
+              "$$data_type": "org-node",
+              "type": "quote-block",
+              "ref": "org4a0aed7",
+              "properties": {
+                "post-blank": 0,
+                "post-affiliated": 9453
+              },
+              "contents": [
+                {
+                  "$$data_type": "org-node",
+                  "type": "paragraph",
+                  "ref": "org22950cc",
+                  "properties": {
+                    "post-blank": 0,
+                    "post-affiliated": 9467
+                  },
+                  "contents": [
+                    "\"Just as man can't exist without his body, so no rights can exist without the right to translate one's rights into reality—to think, to work and to keep the results—which means: the right of property. The modern mystics of muscle who offer you the fraudulent alternative of 'human rights' versus 'property rights,' as if one could exist without the other, are making a last, grotesque attempt to revive the doctrine of soul versus body. Only a ghost can exist without material property; only a slave can work with no right to the product of his effort. The doctrine that 'human rights' are superior to 'property rights' simply means that some human beings have the right to make property out of others; since the competent have nothing to gain from the incompetent, it means the right of the incompetent to own their betters and to use them as productive cattle. Whoever regards this as human and right, has no right to the title of 'human.'\n"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "$$data_type": "org-node",
+      "type": "headline",
+      "ref": "org5285515",
+      "drawer": {},
+      "properties": {
+        "tags-all": [],
+        "raw-value": "Footnotes",
+        "pre-blank": 1,
+        "level": 1,
+        "priority": null,
+        "tags": [],
+        "todo-keyword": null,
+        "todo-type": null,
+        "post-blank": 0,
+        "footnote-section-p": true,
+        "archivedp": false,
+        "commentedp": false,
+        "post-affiliated": 10422,
+        "title": ["Footnotes"]
+      },
+      "contents": [
+        {
+          "$$data_type": "org-node",
+          "type": "section",
+          "ref": "orge734fe9",
+          "properties": {
+            "post-blank": 0,
+            "post-affiliated": 10435
+          },
+          "contents": [
+            {
+              "$$data_type": "org-node",
+              "type": "footnote-definition",
+              "ref": "orga7dc842",
+              "properties": {
+                "label": "1",
+                "pre-blank": 0,
+                "post-blank": 0,
+                "post-affiliated": 10435
+              },
+              "contents": [
+                {
+                  "$$data_type": "org-node",
+                  "type": "paragraph",
+                  "ref": "org6ddaead",
+                  "properties": {
+                    "post-blank": 0,
+                    "post-affiliated": 10441
+                  },
+                  "contents": [
+                    {
+                      "$$data_type": "org-node",
+                      "type": "link",
+                      "ref": "org2988526",
+                      "properties": {
+                        "type": "https",
+                        "path": "//twitter.com/_new_empire_/status/1743996193800073532",
+                        "format": "plain",
+                        "raw-link": "https://twitter.com/_new_empire_/status/1743996193800073532",
+                        "application": null,
+                        "search-option": null,
+                        "post-blank": 1,
+                        "is-internal": false,
+                        "target-ref": null,
+                        "is-inline-image": false
+                      },
+                      "contents": []
+                    },
+                    "(",
+                    {
+                      "$$data_type": "org-node",
+                      "type": "link",
+                      "ref": "org1677b04",
+                      "properties": {
+                        "type": "https",
+                        "path": "//archive.ph/RE75C",
+                        "format": "bracket",
+                        "raw-link": "https://archive.ph/RE75C",
+                        "application": null,
+                        "search-option": null,
+                        "post-blank": 0,
+                        "is-internal": false,
+                        "target-ref": null,
+                        "is-inline-image": false
+                      },
+                      "contents": ["archived"]
+                    },
+                    ", ",
+                    {
+                      "$$data_type": "org-node",
+                      "type": "link",
+                      "ref": "org6d08f81",
+                      "properties": {
+                        "type": "https",
+                        "path": "//archive.ph/4tNii",
+                        "format": "bracket",
+                        "raw-link": "https://archive.ph/4tNii",
+                        "application": null,
+                        "search-option": null,
+                        "post-blank": 0,
+                        "is-internal": false,
+                        "target-ref": null,
+                        "is-inline-image": false
+                      },
+                      "contents": ["reply to ibid."]
+                    },
+                    ")\n"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

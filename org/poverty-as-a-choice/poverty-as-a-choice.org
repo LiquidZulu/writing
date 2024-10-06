@@ -1,0 +1,79 @@
+#+title: Poverty as a Choice
+
+* notes
++ taking wealth from another---why do they hate wealth for being wealth, Atlas Shrugged
++ Marxist dictatorships: why do they come around
+  + Peikoff's philosophical theory of history vs legacy of colonialism with soviet union---synthesis with soviet union propagandising
++ “Throughout history, poverty is the normal condition of man. Advances which permit this norm to be exceeded — here and there, now and then — are the work of an extremely small minority, frequently despised, often condemned, and almost always opposed by all right-thinking people. Whenever this tiny minority is kept from creating, or (as sometimes happens) is driven out of a society, the people then slip back into abject poverty. This is known as ‘bad luck.’” -Robert Heinlein
++ "The interesting point is that from both ends of the ideological spectrum both Banfield and Gouldner agree on the essential nature of this process, despite their contrasting value judgments on it: that much of persistent lower-class unemployment, and hence poverty, is voluntary on the part of the unemployed themselves." -Rothbard, For a New Liberty (part of a longer section on welfare and poverty that is worth checking out)
++ Human Action p. 154:
++ substantiate claim that they moved to hating capitalism for creating abundance
++
+* outline
++ thesis: the type of persistent poverty we seen in slums and in africa is deliberately chosen by the people who live there
+  + explain what poverty is, it is the state of nature, the concrete is given by africa
+  + hating the good for being good
++ examples
+  + drying tomatos
+  + sude's stories from africa
++ draw out the abstraction of hating wealth from the examples
++ Atlas Shrugged, Starnesville, they hate greatness, so they choose poverty
++ "but what about the people who were forced into poverty?"
+  + by greedy corporations---what is the root of money? d'Anconia speech
+  + by exploitation of colonialists---examples of colonised people succeeding, Hong Kong
+  + by being racially inferior---examples of people of all different races succeeding
+  + by the state---this one is valid, the state does indeed put people into poverty on the premises of altruism
++ call to action: reject altruism
+* main body
+I will present you with a thesis: the sort of abject and systematic poverty we see in the slums of the west and the developing nations in areas such as Africa was deliberately chosen by the people who reside there. Poverty is the state of nature, man comes into this world naked and only some were able to pull themselves out of the conditions of bare sustenance---again, by a deliberate choice. The choice in question is between two alternatives: to love the good for being good, or to hate the good for being good.
++ Satan, paradise lost: evil be thy good
+  + one thing to say that people chose to pull themselves out of poverty, but they also chose how to do it, but some people try and choose bad means so they fail---substantiate that they are choosing poverty
+    + that they chose to be poor, rather than failed to be rich
+
+A Twitter user explains that when he was in Africa, he "learned that 60% of the tomato harvest went to spoil each year."[fn:1] To solve this problem, he built an air dryer to make sundried tomato pesto, which he gave away. "Everybody loved it and the matriarchs loved using the dry tomato in meals. I told them they could keep the air [dryer] and possibly sell it for side income next harvest. I left at the end of my term and checked back a year later, the air [dryer] was dismantled for the wood and parts."
+
+Su worked with a shipping company in Tunisia for a time and shared some of her stories with me. She explained that when a charity would install a well, rival villages would pour rat poison down it---if I don't have it, nobody should have it. One day she went to give out western candies to some children, only to have them snatched up by ravenous adults. One mother explained that she did not care if her children starved to death, she just wants the candy---placing the value of a momentary taste above the lives of children. When Su was staying at one of the higher quality hotels the cleaning lady demanded that she hand over her iPhone, because Su is a westerner, and all westerners are wealthy so she should give up what she values to the poor Africans---from each according to his ability, to each according to his need. This same cleaning lady would later blatantly steal some makeup and was confused why this would bother Su---it is self-evident that Su does not deserve it, because she worked for it.
+
++ su stories:
+  + had to stay up all night with her boss watching a shipping container of theirs so that the warehouse workers would not steal anything from it---a chinese businesswoman at that same warehouse was complaining that her goods were stolen, and that the warehouse security was doing nothing about it.
++ give concretes, draw out the abstraction of the positive case for my thesis
+  + they wanted poverty, they hate life and wealth, they got their wish---they did not fail to succeed, they succeeded at failure.
++ starnesville
++ counterarguents:
+  + the developing peoples were exploited by the wealthy, and that is why they are poor
+    + this is an inversion of the parasitism, it is those poor who advocate from each according to his ability to each according to his need, and curse the rich for their being rich
+    + this ties into the point that they think all of the natural resources were stripped dry by colonialism or whatever
+  + the developing peoples are of an inferior race, and are not able to develop on their own
+    + this claim is then used for the same purpose: that the wealthy must sacrifice their own wellbeing to "civilise" them---we don't want to be selfish isolationists after all!
+
+#+begin_quote
+The law of causality is the law of identity applied to action. Al! actions are caused by entities. The nature of an action is caused and determined by the nature of the entities that act; a thing cannot act in contradiction to its nature. An action not caused by an entity would be caused by a zero, which would mean a zero controlling a thing, a nonentity controlling an entity, the non-existent ruling the existent—which is the universe of your teachers' desire, the cause of their doctrines of causeless action, the reason of their revolt against reason, the goal of their morality, their politics, their economics, the ideal they strive for: the reign of the zero.
+
+"The law of identity does not permit you to have your cake and eat it, too. The law of causality does not permit you to eat your cake before you have it. But if you drown both laws in the blanks of your mind, if you pretend to yourself and to others that you don't see—then you can try to proclaim your right to eat your cake today and mine tomorrow, you can preach that the way to have a cake is to eat it first, before you bake it, that the way to produce is to start by consuming, that "all wishers have an equal claim to all things, since nothing is caused by anything. The corollary of the causeless in matter is the unearned in spirit.
+
+"Whenever you rebel against causality, your motive is the fraudulent desire, not to escape it, but worse: to reverse it. You want unearned love, as if love, the effect, could give you personal value, the cause—you want unearned admiration, as if admiration, the effect, could give you virtue, the cause—you want unearned wealth, as if wealth, the effect, could give you ability, the cause—you plead for mercy, mercy, not justice, as if an unearned forgiveness could wipe out the cause of your plea. And to indulge your ugly little shams, you support the doctrines of your teachers, while they run hog-wild proclaiming that spending, the effect, creates riches, the cause, that machinery, the effect, creates intelligence, the cause, that your sexual desires, the effect, create your philosophical values, the cause.
+#+end_quote
+
+#+begin_quote
+Wealth is a means of human life, and they clamor for wealth in imitation of living beings, to pretend to themselves that they desire to live. But their swinish indulgence in plundered luxury is not enjoyment, it is escape. They do not want to own your fortune, they want you to lose it; they do not want to succeed, they want you to fail; they do not want to live, they want you to die; they desire nothing, they hate existence, and they running, each trying not to learn that the object of his hatred is himself.
+#+end_quote
+
+#+begin_quote
+"If you want to know what you lost when I quit and when my strikers deserted your world—stand on an empty stretch of soil in a wilderness unexplored by men and ask yourself what manner of survival you would achieve and how long you would last if you refused to think, with no one around to teach you the motions, or, if you chose to think, how much your mind would be able to discover—ask yourself how many independent conclusions you have reached in the course of your life and how much of your time was spent on performing the actions you learned from others— ask yourself whether you would be able to discover how to till the soil and grow your food, whether you would be able to invent a wheel, a lever, an induction coil, a generator, an electronic tube—then decide whether men of ability are exploiters who live by the fruit of your labor and rob you of the wealth that you produce, and whether you dare to believe that you possess the power to enslave them. Let your women take a look at a jungle female with her shriveled face and pendulous breasts, as she sits grinding meal in a bowl, hour after hour, century by century—then let them ask themselves whether their 'instinct of tool-making' will provide them with their electric refrigerators, their washing machines and vacuum cleaners, and, if not, whether they care to destroy those who provided it all, but not 'by instinct.'
+#+end_quote
+
+#+begin_quote
+"In order to deprive us of honor, that you may then deprive us of our wealth, you have always regarded us as slaves who deserve no moral recognition. You praise any venture that claims to be nonprofit, and damn the men who made the profits that make the venture possible. You regard as 'in the public interest' any project serving those who do not pay; it is not in the public interest to provide any services for those who do the paying. 'Public benefit' is anything given as alms; to engage in trade is to injure the public. 'Public welfare' is the welfare of those who do not earn it; those who do, are entitled to no welfare. 'The public,' to you, is whoever has failed to achieve any virtue or value; whoever achieves it, whoever provides the goods you require for survival, ceases to be regarded as part of the public or as part of the human race.
+#+end_quote
+
+#+begin_quote
+"There are two sides to every issue: one side is right and the other is wrong, but the middle is always evil. The man who is wrong still retains some respect for truth, if only by accepting the responsibility of choice.
+#+end_quote
+
+#+begin_quote
+"Just as man can't exist without his body, so no rights can exist without the right to translate one's rights into reality—to think, to work and to keep the results—which means: the right of property. The modern mystics of muscle who offer you the fraudulent alternative of 'human rights' versus 'property rights,' as if one could exist without the other, are making a last, grotesque attempt to revive the doctrine of soul versus body. Only a ghost can exist without material property; only a slave can work with no right to the product of his effort. The doctrine that 'human rights' are superior to 'property rights' simply means that some human beings have the right to make property out of others; since the competent have nothing to gain from the incompetent, it means the right of the incompetent to own their betters and to use them as productive cattle. Whoever regards this as human and right, has no right to the title of 'human.'
+#+end_quote
+
+* Footnotes
+
+[fn:1]https://twitter.com/_new_empire_/status/1743996193800073532 ([[https://archive.ph/RE75C][archived]], [[https://archive.ph/4tNii][reply to ibid.]])

@@ -1,5 +1,14 @@
 #+title: The Anti-Environment Manifesto
+#+options: toc:nil
 
+#+begin_export md
+---
+title: "The Anti-Environment Manifesto"
+description: "The environmentalist movement represents the distilled form of hatred of mankind—that man must sacrifice his own life and wellbeing for the sake of inanimate matter."
+n: 1
+date: 2024-03-08
+---
+#+end_export
 
 * Environmental-Protectionism as Anti-Human
 What is the environment? The face of a virgin mountain?---that is the environment. That same mountain face torn apart and set into the shape of a wall?---that is not the environment. What is it that separates these two forms of stone? In the case of our wall, that stone has been blasted apart, hewn into bricks, transported to the construction site, and affixed into its proper place---all by the conscious effort of man. In the case of our virgin mountainside, this has not occurred.

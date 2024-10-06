@@ -1,14 +1,10 @@
+---
+title: "The Anti-Environment Manifesto"
+description: "The environmentalist movement represents the distilled form of hatred of mankind—that man must sacrifice his own life and wellbeing for the sake of inanimate matter."
+n: 1
+date: 2024-03-08
+---
 
-# Table of Contents
-
-1.  [Environmental-Protectionism as Anti-Human](#orgfaaa37c)
-2.  [Humanist Environmentalism](#orgecd957a)
-3.  [Scientism and Environmentalism](#org3738102)
-4.  [Corporate Environmentalism and the Sanction of the Victim](#org5168909)
-
-
-
-<a id="orgfaaa37c"></a>
 
 # Environmental-Protectionism as Anti-Human
 
@@ -73,8 +69,6 @@ They are akin to those who cry out for &ldquo;economic stability&rdquo;&#x2014;t
 The conservationists want to conserve anything&#x2013;except man&#x2013;and control nothing&#x2013;except man.
 
 
-<a id="orgecd957a"></a>
-
 # Humanist Environmentalism
 
 Many conservationists will cry out at this point that they do not wish to destroy man to aid the environment; they just want mankind to live in harmony with the environment. What, then, does it mean for mankind to live in harmony with the environment? A man fracking oil to fuel his automobile? &ldquo;No!&#x2014;That is destructive of the natural environment!&rdquo; A man farming cows to produce milk for him to drink? &ldquo;No!&#x2014;That would disrupt the proper functioning of the soil!&rdquo; A man mining copper to build his computers? &ldquo;No!&#x2014;The explosives would scare off migratory birds!&rdquo; A man plucking an apple from a tree to feed his starving body? &ldquo;No!&#x2014;The tree needs those fruits to be eaten by grazing animals which then spread the seeds and thus continue the circle of life!&rdquo;
@@ -112,8 +106,6 @@ This is the answer to the honest environmentalist&rsquo;s confusion. Why is it t
 After all, these technologies require you to mine materials out of the ground, the wind turbines disturb birds and other wildlife, the solar panels must be placed over vast swathes of land, and it will all require many miles of cables to transport the energy. Can&rsquo;t we just leave well enough alone!? Again: &ldquo;sustainable&rdquo; technology means technology that sustains anything except humanity&#x2014;they don&rsquo;t want to eliminate fossil fuels for the sake of man&rsquo;s flourishing, but for the sake of his demise.
 
 
-<a id="org3738102"></a>
-
 # Scientism and Environmentalism
 
 It is in the environmentalist&rsquo;s bundling together of the facts of the matter (this factory is pumping out pollution) and the evaluation of those facts (we should therefore ban factories) that provides us a view of the type of philosophy at play here. Namely, *scientism*.
@@ -140,8 +132,6 @@ The altruism underpinning these anti-industrial sentiments has been left complet
 
 To properly answer this evil, one must first identify its nature&#x2014;one must understand that &ldquo;the experts&rdquo; have been avid supporters of every evil that men have ever committed. Eugenics rose to prominence through collectivism espoused by the philosophers, and biological-scientism taken as a new metaphysics&#x2014;it certainly may be the case that intelligence and other desirable traits have a genetic basis, but this fact does not imply that the policy of state-mandated eugenics is justified. Slavery was widely considered to be moral on the altruist premise that we must export civilisation to the races that were considered incapable of it&#x2014;it certainly may be the case that different groups have achieved different levels of civilisation, but this does not imply that the policy of slavery is justified. It is not enough to take the old conservative line that these ideas are good in theory but they were just taken too far in practice&#x2014;they do not work in practice *because they are bad in theory*.
 
-
-<a id="org5168909"></a>
 
 # Corporate Environmentalism and the Sanction of the Victim
 
